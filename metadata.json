@@ -1,0 +1,8 @@
+{
+  "name": "Inventory \u0026 Barcode POS",
+  "description": "Comprehensive retail inventory management system with fast barcode POS billing, stock tracking, customer and office invoices, and supplier management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
